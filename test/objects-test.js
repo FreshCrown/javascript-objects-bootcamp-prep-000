@@ -23,7 +23,7 @@ describe('objects', () => {
 
   describe('updatePlaylist(playlist, artistName, songTitle)', () => {
     before(() => {
-      playlist['Slowdive'] = 
+      playlist['Slowdive'] = 'Alison'
       playlist['My Bloody Valentine'] = 'Sometimes'
     })
 
