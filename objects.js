@@ -3,4 +3,6 @@ var playlist = {
   songTitle: 'Slowdive'
 }
 
-function 
+function updatePlaylist(playlist, artistName, songTitle){
+  
+}
