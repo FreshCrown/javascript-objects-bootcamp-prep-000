@@ -5,6 +5,6 @@ var playlist = {
   
 }
 
-function updatePlayList(){
+function updatePlayList(obj, key, value){
   
 }
