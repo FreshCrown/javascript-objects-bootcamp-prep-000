@@ -4,3 +4,7 @@ var playlist = {
   Kendrick : 'Humble'
   
 }
+
+function updatePlayList(){
+  
+}
