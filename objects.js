@@ -9,4 +9,3 @@ function updatePlaylist(playlist, artistName, songTitle){
   playlist.artistName = songTitle
 }
 
-updatePlaylist('hi')
