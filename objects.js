@@ -3,3 +3,4 @@ var playlist = {
   songTitle: 'Slowdive'
 }
 
+function 
